@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+### Current
+
+- **[2022.07.04 ~ 2024.01.03]** </br>
+  🪖 On Military Duty: 12D/A, ROKA
+
+### Past
+
 
 <!--
 **kjh-icnl/kjh-icnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
