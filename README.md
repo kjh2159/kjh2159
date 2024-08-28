@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 ### Current
-
-- **[2022.07.04 ~ 2024.01.03]** </br>
-  🪖 On Military Duty: 12D/A, ROKA
+- **[2024.08.19 ~ ]** </br>
+  📚 Undergraduate Researcher on ICNL
+- **[Jan, 2024 ~ ]** </br>
+  💡Technical Supporter
 - **[2021.03.14 ~ ]** </br>
   📹 [YouTube Channel](https://youtube.com/@user-zv3fy2ic5f?si=71LCceGnw8vRV6pC)
 
@@ -15,10 +16,13 @@
 - 🔑 Be a Good Researcher on the Computer Science Field!
 
 ----
-### Past
-
-- **[2019.02.22 ~ Stopped]** </br>
+### Past Experience
+- **[2022.07.04 ~ 2024.01.03]** </br>
+  🪖 On Military Duty: 12D/A, ROKA
+- **[2019.02.22 ~ 2022.07.03]** </br>
   📚 Undergraduate Student: Bachelor's Degree (on vacation by military duty)
+
+### Past Publications
 - **[2023]**</br>
   - Kyungtae Lee, *Jinhwi Kim*, Jeongho Kwak and Yeongjin Kim, "Dynamic Multi-Resource Optimization for Storage Acceleration in Cloud Storage Systems," IEEE Transactions on Services Computing (TSC), vol. 16, no. 2, pp. 1079-1092, Mar. 2023 (IF: 8.216, JCR Top 1% in Computer Science, Software Engineering) ISSN: 2372-0204
 - **[2022]**</br>
@@ -28,7 +32,6 @@
   - Pyeongjun Choi, Dongho Ham, *Jinhwi Kim*, Yeongjin Kim and Jeongho Kwak, "VisionScaling: Dynamic Learning and Resource Scaling in Mobile Computer Vision Applications," *Bronze Prize* in Samsung HumanTech 2021.
 - **[2020]**</br>
   - *Jinhwi Kim*, Apostolos Galanopoulos, Jude Vivek, and Jeongho Kwak, “A Study on Energy‑Process‑Delay Tradeoff in Embedded Artificial Intelligence,” in Proc. of ICTC, Jeju, South Korea, Oct. 2020, pp. 1-4.
-
 
 ----
 ### Ability (Tech)
