@@ -6,7 +6,7 @@
 - **[Jan, 2024 ~ ]** </br>
   💡Technical Supporter @ Godjunpyo AI
 - **[2021.03.14 ~ ]** </br>
-  📹 [YouTube Channel](https://youtube.com/@user-zv3fy2ic5f?si=71LCceGnw8vRV6pC)
+  📹 [YouTube Channel](https://youtube.com/@MutexLock)
 
 ----
 ### Future Plan
