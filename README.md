@@ -48,7 +48,8 @@
   > Mathematics : December 2018 - February 2019 (for middle school students)
 - Private Teaching
   > Programming : April 2021 - August 2021 (with Python and C)
-
+- Online Lecture
+  > Make your own Github blog with ChatGPT-4. No Coding : August 2024
 
 
 <!--
