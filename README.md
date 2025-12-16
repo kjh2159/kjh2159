@@ -26,8 +26,6 @@
   🪖 On Military Duty: 12D/A, ROKA
 
 ### Publications
-- **[2025]**</br>
-  - **Jinhwi Kim**, Minjae Lee, Seoyong Hong, Janghee Won, Pyeongjun Choi, Jeongho Kwak, Yeongjin Kim, and Jinhyun So, "*IGNITE*: Thermally-Durable On-device LLMs Governed by Nested Lazy Inference Ignition," submitted for *IEEE INFOCOM*, 2025.
 - **[2023]**</br>
   - Kyungtae Lee, **Jinhwi Kim**, Jeongho Kwak and Yeongjin Kim, "Dynamic Multi-Resource Optimization for Storage Acceleration in Cloud Storage Systems," IEEE Transactions on Services Computing (TSC), vol. 16, no. 2, pp. 1079-1092, Mar. 2023 (IF: 8.216, JCR Top 1% in Computer Science, Software Engineering) ISSN: 2372-0204
 - **[2022]**</br>
