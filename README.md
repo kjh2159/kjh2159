@@ -8,6 +8,16 @@
 - **[2021.03.14 ~ ]** </br>
   📹 [YouTube Channel](https://youtube.com/@MutexLock)
 
+---
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![contribution snake](https://raw.githubusercontent.com/kjh2159/kjh2159/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
 ----
 ### Future Plan
 - 🎓 Get a Ph.D. Degree (through Direct Ph.D. program in the US)
