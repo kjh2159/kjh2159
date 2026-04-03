@@ -2,7 +2,7 @@
 
 ### Current
 - **[Aug, 2025 ~]** </br>
-  📚 M.S. student in Distributed AI Lab
+  📚 M.S. student in CORE-AI Lab
 - **[Jan, 2024 ~ ]** </br>
   💡Technical Supporter @ Godjunpyo AI
 - **[2021.03.14 ~ ]** </br>
@@ -19,7 +19,7 @@
 - **[2019.02.22 ~ 2025.08.14]** </br>
   📚 Undergraduate Student: Bachelor's Degree
 - **[2025.02.28 ~ 2025.08.14]** </br>
-  🔎 Undergraduate Researcher @ DAIL
+  🔎 Undergraduate Researcher @ CORE-AI Lab
 - **[2020.06.29 ~ 2025.02.28]** </br>
   🔎 Undergraduate Researcher @ ICNL
 - **[2022.07.04 ~ 2024.01.03]** </br>
