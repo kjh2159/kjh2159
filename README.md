@@ -1,5 +1,7 @@
 ## Hi, there 👋 I'm Jin!
 
+Please feel free to contact me!
+
 ### Current
 - **[Aug, 2025 ~]** </br>
   📚 M.S. student in CORE-AI Lab
@@ -16,13 +18,6 @@
 ![contribution snake](https://raw.githubusercontent.com/kjh2159/kjh2159/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-
-----
-### Future Plan
-- 🎓 Get a Ph.D. Degree (through Direct Ph.D. program in the US)
-- ✏️ Share the Essence of Computer Science and Programming
-- 🔑 Be a Good Researcher on the Computer Science Field!
 
 ----
 ### Past Experience
