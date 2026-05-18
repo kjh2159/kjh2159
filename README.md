@@ -35,8 +35,6 @@ Please feel free to contact me!
   - **Jinhwi Kim**, Gukhyeon Nam, Minjae Lee, Pyeongjun Choi, Yeongjin Kim, Jinhyun So, and Jeongho Kwak, "IGNITO: Towards Thermally-Durable On-Device LLM Framework Governed by Nested Lazy Inference Ignition," manuscript under double-blind review.
 - **[2023]**</br>
   - Kyungtae Lee, **Jinhwi Kim**, Jeongho Kwak and Yeongjin Kim, "Dynamic Multi-Resource Optimization for Storage Acceleration in Cloud Storage Systems," IEEE Transactions on Services Computing (TSC), vol. 16, no. 2, pp. 1079-1092, Mar. 2023 (IF: 8.216, JCR Top 1% in Computer Science, Software Engineering) ISSN: 2372-0204
-- **[2022]**</br>
-  - None
 - **[2021]**</br>
   - Pyeongjun Choi, **Jinhwi Kim**, Yeongjin Kim, and Jeongho Kwak, “Efficiency Analysis of CPU/GPU Scaling in Embedded AI,” in Proc. of JCCI, Apr. 2021
   - Pyeongjun Choi, Dongho Ham, **Jinhwi Kim**, Yeongjin Kim, and Jeongho Kwak, "VisionScaling: Dynamic Learning and Resource Scaling in Mobile Computer Vision Applications," *Bronze Prize* in Samsung HumanTech 2021.
