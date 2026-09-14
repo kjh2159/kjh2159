@@ -31,8 +31,11 @@ Please feel free to contact me!
   🪖 On Military Duty: 12D/A, ROKA
 
 ### Publications
-- **[2026]**</br>
+- **[2027]**</br>
   - **Jinhwi Kim**, Gukhyeon Nam, Minjae Lee, Pyeongjun Choi, Yeongjin Kim, Jinhyun So, and Jeongho Kwak, "IGNITO: Towards Thermally-Durable On-Device LLM Framework Governed by Nested Lazy Inference Ignition," manuscript under double-blind review.
+  - Myungbeom Her, **Jinhwi Kim**, Juseok Jeon, and Jinhyun So, "RL-Head: Residual Logit Heads for Memory-Efficient Layer-Progressive Local Learning," manuscript under double-blind review.
+- **[2026]**</br>
+  - Juseok Jeon, Ramy E. Ali, Doyun Kwon, Myungbeom Her, **Jinhwi Kim**, and Jinhyun So, "FedPA-LoRA: Product-Aligned Framework for Mitigating Aggregation and Initialization Errors in Heterogeneous Federated LoRA," _arXiv preprint_ arXiv:2608.15381, Aug. 2026.
 - **[2023]**</br>
   - Kyungtae Lee, **Jinhwi Kim**, Jeongho Kwak and Yeongjin Kim, "Dynamic Multi-Resource Optimization for Storage Acceleration in Cloud Storage Systems," IEEE Transactions on Services Computing (TSC), vol. 16, no. 2, pp. 1079-1092, Mar. 2023 (IF: 8.216, JCR Top 1% in Computer Science, Software Engineering) ISSN: 2372-0204
 - **[2021]**</br>
