@@ -30,7 +30,7 @@ Please feel free to contact me!
 - **[2022.07.04 ~ 2024.01.03]** </br>
   🪖 On Military Duty: 12D/A, ROKA
 
-### Publications
+### Main Publications
 - **[2027]**</br>
   - **Jinhwi Kim**, Gukhyeon Nam, Minjae Lee, Pyeongjun Choi, Yeongjin Kim, Jinhyun So, and Jeongho Kwak, "IGNITO: Towards Thermally-Durable On-Device LLM Framework Governed by Nested Lazy Inference Ignition," manuscript under double-blind review.
   - Myungbeom Her, **Jinhwi Kim**, Juseok Jeon, and Jinhyun So, "RL-Head: Residual Logit Heads for Memory-Efficient Layer-Progressive Local Learning," manuscript under double-blind review.
@@ -39,10 +39,7 @@ Please feel free to contact me!
 - **[2023]**</br>
   - Kyungtae Lee, **Jinhwi Kim**, Jeongho Kwak and Yeongjin Kim, "Dynamic Multi-Resource Optimization for Storage Acceleration in Cloud Storage Systems," IEEE Transactions on Services Computing (TSC), vol. 16, no. 2, pp. 1079-1092, Mar. 2023 (IF: 8.216, JCR Top 1% in Computer Science, Software Engineering) ISSN: 2372-0204
 - **[2021]**</br>
-  - Pyeongjun Choi, **Jinhwi Kim**, Yeongjin Kim, and Jeongho Kwak, “Efficiency Analysis of CPU/GPU Scaling in Embedded AI,” in Proc. of JCCI, Apr. 2021
   - Pyeongjun Choi, Dongho Ham, **Jinhwi Kim**, Yeongjin Kim, and Jeongho Kwak, "VisionScaling: Dynamic Learning and Resource Scaling in Mobile Computer Vision Applications," *Bronze Prize* in Samsung HumanTech 2021.
-- **[2020]**</br>
-  - **Jinhwi Kim**, Apostolos Galanopoulos, Jude Vivek, and Jeongho Kwak, “A Study on Energy‑Process‑Delay Tradeoff in Embedded Artificial Intelligence,” in Proc. of ICTC, Jeju, South Korea, Oct. 2020, pp. 1-4.
 
 ----
 ### Ability (Tech)
