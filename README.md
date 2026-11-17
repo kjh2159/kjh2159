@@ -34,6 +34,7 @@ Please feel free to contact me!
 - **[2027]**</br>
   - **Jinhwi Kim**, Gukhyeon Nam, Minjae Lee, Pyeongjun Choi, Yeongjin Kim, Jinhyun So, and Jeongho Kwak, "IGNITO: Towards Thermally-Durable On-Device LLM Framework Governed by Nested Lazy Inference Ignition," manuscript under double-blind review.
   - Myungbeom Her, **Jinhwi Kim**, Juseok Jeon, and Jinhyun So, "RL-Head: Residual Logit Heads for Memory-Efficient Layer-Progressive Local Learning," manuscript under double-blind review.
+  - Myungbeom Her, **Jinhwi Kim**, and Jinhyun So, "NuZO: Nullspace-Calibrated Zeroth-Order Optimization for Language Model Fine-Tuning," manuscript under double-blind review.
 - **[2026]**</br>
   - Juseok Jeon, Ramy E. Ali, Doyun Kwon, Myungbeom Her, **Jinhwi Kim**, and Jinhyun So, "FedPA-LoRA: Product-Aligned Framework for Mitigating Aggregation and Initialization Errors in Heterogeneous Federated LoRA," _arXiv preprint_ arXiv:2608.15381, Aug. 2026.
 - **[2023]**</br>
